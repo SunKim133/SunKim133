@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 Sun's here!
 
 - 🔭 I’m currently a student at somewhere in Canada🇨🇦
 - 🌱 I’m currently learning Data Science and Machine Learning!
